@@ -1,0 +1,36 @@
+{
+  "name": "@hummer/load-script-webpack-plugin",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeLab/hummer-load-script-webpack-plugin.git"
+  },
+  "keywords": [
+    "splitChunk",
+    "loadScript"
+  ],
+  "author": "AdamCaoQAQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrangeLab/hummer-load-script-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/OrangeLab/hummer-load-script-webpack-plugin#readme",
+  "devDependencies": {
+    "@hummer/tenon-store": "^1.0.0",
+    "@hummer/tenon-vue": "^1.0.0",
+    "@hummer/web-api": "^0.0.1-alpha.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "terser": "^5.9.0"
+  }
+}
