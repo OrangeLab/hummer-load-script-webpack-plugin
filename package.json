@@ -9,6 +9,10 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OrangeLab/hummer-load-script-webpack-plugin.git"
