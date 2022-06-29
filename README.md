@@ -50,4 +50,4 @@ module.exports = {
 ```
 配置完成后重新执行构建,你就可以看到产物发生变化了
 
-[1]: https://github.com/OrangeLab/hummer-load-script-webpack-plugin
+[1]: https://webpack.docschina.org/plugins/split-chunks-plugin/
